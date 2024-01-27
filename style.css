@@ -1,0 +1,40 @@
+body.main{
+    text-align: center;
+}
+
+h1{
+    color: rgb(103, 29, 30);
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+h2{
+    color: rgb(103, 29, 30);
+    font-size: 30px;
+    margin-bottom: 0px;
+
+}
+
+div.container {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+ul, ol{
+    font-size: 20px;
+    padding-left: 0;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
